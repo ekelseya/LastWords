@@ -6,6 +6,17 @@
     background-color: #fcee7f;
 }
 
+a {
+    color: #555;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #555;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
 .timeline {
     color: #555;
 }
